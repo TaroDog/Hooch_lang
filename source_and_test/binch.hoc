@@ -1,0 +1,6 @@
+init
+func int hooch()
+ shout system("pause")
+ return 0
+end
+exithq
